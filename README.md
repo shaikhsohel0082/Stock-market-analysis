@@ -47,8 +47,8 @@ No specific installation is required. Simply open the `index.html` file in a web
 Contributions are welcome! If you find any issues or have improvements to suggest, feel free to open an issue or submit a pull request.
 
 ### Screenshots
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
+![Screenshot 1](Screenshot1.png)
+![Screenshot 2](Screenshot2.png)
 
 ### Hosting Link
 
